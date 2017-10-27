@@ -9,11 +9,12 @@ berikut ini adalah batasan sistem yang terdiri dari :
 * Biaya oprasional
 * Laporan keuangan (Akutansi sederhana)
 
-## Spesial thanks to
+## Spesial Thanks to
 
-1. **bu. Lusi Melian, M.T (pembimbing)**
-2. **bpk. Bella Hardiyana (penguji)**
-3. **bu. Diana Effendi (penguji)**
+1. **Tuhan YME
+2. **bu. Lusi Melian, M.T (pembimbing)**
+3. **bpk. Bella Hardiyana (penguji)**
+4. **bu. Diana Effendi (penguji)**
 
 ## Download Draft SKRIPSI.pdf
 
